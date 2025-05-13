@@ -167,3 +167,5 @@ su - ubuntu -c 'mkdir -p ~/logs'
 EOF
   )
 }
+![photo_5843656911969438807_y](https://github.com/user-attachments/assets/8c44ea39-a0d6-4f82-840b-f56e48ec67a3)
+
